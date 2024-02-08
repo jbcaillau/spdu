@@ -16,7 +16,7 @@
 - NB : env. 30000 étudiants au global sur UniCA
 - sur 2023, 230 étudiants ont payé les droits différenciés ; si UniCA exonérait systématiquement, on resterait sous la barre des 10%
 - pour mémoire : doctorants non concernés par droits différenciés
-- 
+
 ![IMG_2887](https://github.com/jbcaillau/spdu/assets/62183989/75a45b47-8ffa-41a7-b6e6-beecc451f1a2)
 
 ## CVEC
@@ -42,7 +42,7 @@
 - deadline interne UniCA : 28/2/2024, deadline 12/3/2024
 - temps invraisemblablement court pour expertise par CAc
 - résultats : oct. 2024
-- [lien](https://www.maregionsud.fr/vos-aides/detail/appel-a-projets-recherche-2024)
+- [lien AAP](https://www.maregionsud.fr/vos-aides/detail/appel-a-projets-recherche-2024)
 
 ## Point RH
 - VP RH, Fabienne d'Arripe-Longueville
