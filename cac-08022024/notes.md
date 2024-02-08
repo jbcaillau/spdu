@@ -1,5 +1,4 @@
 # CAc du 8/2/2024
-### Notes J.-B. Caillau (SPDU)
 
 # Séance plénière
 
