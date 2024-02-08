@@ -17,6 +17,9 @@
 - sur 2023, 230 étudiants ont payé les droits différenciés ; si UniCA exonérait systématiquement, on resterait sous la barre des 10%
 - pour mémoire : doctorants non concernés par droits différenciés
 
+![IMG_2887](https://github.com/jbcaillau/spdu/assets/62183989/75a45b47-8ffa-41a7-b6e6-beecc451f1a2)
+
+
 ## CVEC
 - commission d'aide sociale tous les vendredis matins (difficultés ponctuelles étu)
 - montant des conventions 2023 : AJC = 12 K, FACE 06 = 95 K (inclut restau + épicerie solidaire), UniCA sport club = 100 K (600 adhérents, nécessaire d'après code éducation) ; "chaque euro est contrôlé"
