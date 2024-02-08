@@ -16,9 +16,8 @@
 - NB : env. 30000 étudiants au global sur UniCA
 - sur 2023, 230 étudiants ont payé les droits différenciés ; si UniCA exonérait systématiquement, on resterait sous la barre des 10%
 - pour mémoire : doctorants non concernés par droits différenciés
-
+- 
 ![IMG_2887](https://github.com/jbcaillau/spdu/assets/62183989/75a45b47-8ffa-41a7-b6e6-beecc451f1a2)
-
 
 ## CVEC
 - commission d'aide sociale tous les vendredis matins (difficultés ponctuelles étu)
@@ -58,7 +57,11 @@
 - RIPEC 2 ouvertes à personnalités extérieures 
 - rappel : PEDR incompatible avec RIPEC
 
+[doc PCA](référentiel PCA 2024 CACP du 080224 2024-02-08 07_47_59.pdf)
 
+[doc RIPEC](cac-08022024/référentiel RIPEC 2 2024 CACP du 080224 2024-02-08 07_48_00.pdf)
+
+[doc modulation de service](cadrage modulation service EC 2024 CACP du 080224 2024-02-08 07_48_00.pdf)
 
 ## Concours
 - 85 demandes, 32 concours validés (vs. 53, 46, 37 en 2023, 2022, 2021)
