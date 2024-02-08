@@ -57,11 +57,11 @@
 - RIPEC 2 ouvertes à personnalités extérieures 
 - rappel : PEDR incompatible avec RIPEC
 
-[doc PCA](référentiel PCA 2024 CACP du 080224 2024-02-08 07_47_59.pdf)
+[doc PCA](pca.pdf)
 
-[doc RIPEC](cac-08022024/référentiel RIPEC 2 2024 CACP du 080224 2024-02-08 07_48_00.pdf)
+[doc RIPEC](ripec.pdf)
 
-[doc modulation de service](cadrage modulation service EC 2024 CACP du 080224 2024-02-08 07_48_00.pdf)
+[doc modulation de service](cadrage.pdf)
 
 ## Concours
 - 85 demandes, 32 concours validés (vs. 53, 46, 37 en 2023, 2022, 2021)
