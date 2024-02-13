@@ -30,7 +30,17 @@
 - cas des doctorants : si victime ou témoin de comportements contraires à l'éthique, se rapprocher du comité ; demande de la mise en place d'un sondage
 - comités de suivi de thèse : pb dans certaines ED ; ex : composition du CST choisie par directeur de thèse
 - à propos de l'affaire Rigault, YS cite [ce billet](https://blogs.mediapart.fr/academia/blog/090323/l-extreme-droite-universite-cote-d-azur-ou-la-faillite-d-une-presidence) (le billet inclut la lettre de YS)
-- intervention d'un représentant étudiant sur cette affaire : voir [ce communiqué](xxxx)
+- sur cette affaire, intervention d'un représentant étudiant qui rappelle les faits détaillés dans les communiqués syndicaux ci-dessous (source CGT-Campus 06) :
+
+[Communiqué 1/5](https://www.cgtcampus06.fr/refus-de-luniversite-cote-dazur-dannuler-un-debat-en-presence-dun-membre-du-parti-dextreme-droite-du-delinquant-multirecidiviste-eric-zemmour)
+
+[Communiqué 2/5](https://www.cgtcampus06.fr/lextreme-droite-de-zemmour-soffre-une-tribune-sur-un-campus-duniversite-cote-dazur)
+
+[Communiqué 3/5](https://www.cgtcampus06.fr/luniversite-cote-dazur-doit-elle-se-faire-le-porte-parole-dun-syndicat-etudiant-pour-lorganisation-dune-tribune-de-lextreme-droite-sur-lu)
+
+[Communiqué 4/5](https://www.cgtcampus06.fr/notre-universite-ne-doit-pas-devenir-un-bastion-de-lextreme-droite)
+
+[Communiqué 5/5](https://www.cgtcampus06.fr/violence-de-lextreme-droite-contre-des-etudiant-e-s-et-personnels-il-faut-que-ca-cesse)
 
 ## Direction d'unités
 - validation de l'ensemble des propositions
