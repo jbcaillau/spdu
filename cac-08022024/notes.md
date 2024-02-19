@@ -12,6 +12,7 @@
 - chiffres nationaux 
 - cas des primo-entrants : quid d'un étudiant arrivé dans une autre université l'année précédente (cas réétudié, notamment avec un argument de francophonie)
 - dans certains cas plutôt remboursement qu'exonération : point de vigilance sur le calendrier (aides possibles)
+- proposition pour ces cas : lorsqu'une demande d'éxonération doit être instruite, proroger le paiement des frais d'inscription jusqu'à instruction
 - NB : env. 30000 étudiants au global sur UniCA
 - sur 2023, 230 étudiants ont payé les droits différenciés ; si UniCA exonérait systématiquement, on resterait sous la barre des 10%
 - pour mémoire : doctorants non concernés par droits différenciés
