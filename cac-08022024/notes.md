@@ -69,12 +69,6 @@
 - RIPEC 2 ouvertes à personnalités extérieures 
 - rappel : PEDR incompatible avec RIPEC
 
-[doc PCA](pca.pdf)
-
-[doc RIPEC](ripec.pdf)
-
-[doc modulation de service](cadrage.pdf)
-
 ## Concours
 - 85 demandes, 32 concours validés (vs. 53, 46, 37 en 2023, 2022, 2021)
 - contexte de difficultés budgétaires : fluides, point d'indice...
