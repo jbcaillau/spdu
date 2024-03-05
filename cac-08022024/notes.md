@@ -1,5 +1,7 @@
 # CAc du 8/2/2024
 
+**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
+
 # Séance plénière
 
 ## Exonérations
