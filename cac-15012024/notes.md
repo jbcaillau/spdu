@@ -1,4 +1,4 @@
-# CAc du 12 janvier 2024
+# CAc du 15 janvier 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 
