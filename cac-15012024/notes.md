@@ -2,24 +2,24 @@
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 
-## personnalités qualifiées 
+## Personnalités qualifiées 
 - désignation de 8 personnalités qualifiées (dont 3 alumni) 
 - noms issus d'une négociation (dont Benjamin Serrano, hôpital Monaco)
 - enjeu : universitarisation des formations paramédicales (ex : kiné, avec baisse coûts pour étudiants)
 - validé
 
-## collège complémentaire 
+## Collège complémentaire 
 - pole universitaire innovation (label récemment obtenu, comme 25 universités)
 - validation des personnalités proposées
 - collège complémentaire (4 personnes) 
 - validé
 
-## calendrier
+## Calendrier
 - 1 CAc plénier / mois (plutôt jeudi matin)
 - CAc restreints : plusieurs en mai (cf. postes...) (plutôt jeudi aprem)
 - docs sur wiki, accès sous VPN
 
-## commissions du CAc
+## Commissions du CAc
 - section disciplinaire usagers (env 80 dossiers / an)
 - section disciplinaire enseignants (2 dossiers l'an dernier) ; lien fort avec CNESER
 - durée traitement dossier = 3 mois
