@@ -1,5 +1,7 @@
 # CAc restreint du 21 mars 2024
 
+**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
+
 ## Bilan RIPEC3
 - RIPEC1 : lié au grade, attribution d'office aux EC (= MC et PR)
 - RIPEC2 : resp. particulières confiées aux EC ou C
