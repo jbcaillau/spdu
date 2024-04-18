@@ -15,7 +15,7 @@
 
 ## Avancement des EC
 - 1ère phase : avis "très favorable", "favorable", "réservé" sur la base de critères liés à l'investissement au titre de la pédagogie et de l'administration (pas recherche) pour envoi au CNU
-- critères UniCA pour ces avis, voir document joint (important que les collègues connaissent les critères)
+- critères UniCA pour ces avis, voir document joint
 - 2ème phase : retour (avant l'été) après examen par CNU pour éventuelle promotion locale
 - rendre publics les critères (risque sinon de type "délit d'initié" - aux élus de faire la pédagogie pour éviter l'autocensure)
 - les critères demandant une « combinaison » de plusieurs investissements poussent un peu à cette concentration 
