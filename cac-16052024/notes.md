@@ -29,3 +29,5 @@
 ## Misc
 - éméritat : max 15 ans, par période de 5 ans
 - mise en dispo : limite à cinq ans, avec retour d'au moins 18 mois au bout de 5 ans
+
+$$ \int_0^{t_f} f(x(t),u(t))\,\mathrm{d}t $$
