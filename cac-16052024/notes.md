@@ -1,5 +1,7 @@
 # CAc plénier 16/05/2024
 
+**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
+
 ## Maquettes
 - EUR Odyssée : lien Centrale Méd. au niveau bachelor (démarche de Centrale vers SHS) ; maquette votée 
 - EUR Creates : des imprécisions, et questionnement sur AJAC (en théorie supprimé en L1-2 depuis 2013 à UniCA) ; maquette votée (38 pour, 7 contre, 16 abstentions), moins une partie qui sera rediscutée
