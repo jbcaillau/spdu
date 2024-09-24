@@ -6,7 +6,7 @@
 
 [Infos CAc (PV...)](https://univ-cotedazur.fr/universite/organisation/conseils-commissions-et-comites/conseil-academique)
 
-[Calendrier 2024](https://intranet.univ-cotedazur.fr/organisation/vie-institutionnelle/instances/conseil-academique/conseil-academique-plenier/calendrier-et-infos-diverses)
+[Calendrier 2024-25](https://intranet.univ-cotedazur.fr/organisation/vie-institutionnelle/instances/conseil-academique/conseil-academique-plenier/calendrier-et-infos-diverses)
 
 [Séance du 15 janvier 2024](cac-15012024/notes.md)
 
