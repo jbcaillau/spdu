@@ -1,4 +1,4 @@
-# CAc 19/09/2024
+# CAc du 19 septembre 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 
