@@ -20,7 +20,15 @@
 
 [Séance du 16 mai 2024](cac-16052024/notes.md)
 
+[Séance du 23 mai 2024](cac-23052024/notes.md)
+
+[Séance du 31 mai 2024](cac-31052024/notes.md)
+
 [Séance du 6 juin 2024](cac-06062024/notes.md)
+
+[Séance du 13 juin 2024](cac-13062024/notes.md)
+
+[Séance du 2 juillet 2024](cac-02072024/notes.md)
 
 [Séance du 19 septembre 2024](cac-19092024/notes.md)
 
