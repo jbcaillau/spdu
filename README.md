@@ -24,4 +24,4 @@
 
 [Séance du 10 octobre 2024](cac-10102024/notes.md)
 
-[Séance du 17 octobre 2024](cac-10172024/notes.md)
+[Séance du 17 octobre 2024](cac-17102024/notes.md)
