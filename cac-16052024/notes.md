@@ -1,4 +1,4 @@
-# CAc plénier 16/05/2024
+# CAc plénier 16 mai 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 
