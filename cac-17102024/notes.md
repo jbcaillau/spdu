@@ -1,4 +1,4 @@
-# CAc restreint du 17/10/2024
+# CAc restreint du 17 octobre 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 
