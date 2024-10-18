@@ -1,9 +1,5 @@
 # CAc du 10/10/2024
 
-**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
-
-# CAc plénier du 10/10/2024
-
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 
 - arrivé à 9:30 (manqué 30' sur PV précédent + jury VAE)
@@ -27,7 +23,7 @@
 
 # CAc restreint du 10/10/2024
 
-## RIPEC3
+## RIPEC3 MC
 
 - 175 MC + PR pour 96 primes
 - 54 primes pour 99 MC

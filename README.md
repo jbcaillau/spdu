@@ -21,3 +21,5 @@
 [Séance du 16 mai 2024](cac-16052024/notes.md)
 
 [Séance du 6 juin 2024](cac-06062024/notes.md)
+
+[Séance du 10 octobre 2024](cac-10102024/notes.md)
