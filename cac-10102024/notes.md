@@ -25,6 +25,7 @@
 
 ## RIPEC3 MC
 
+- RIPEC3 = 5150€ / an sur 3 ans
 - 175 MC + PR pour 96 primes
 - 54 primes pour 99 MC
 - 42 primes pour 76 PR
