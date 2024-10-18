@@ -1,4 +1,4 @@
-# CAc plénier du 06/06/2024
+# CAc plénier du 6 juin 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 

@@ -1,4 +1,4 @@
-# CACr 02/07/2024
+# CACr du 2 juillet 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 

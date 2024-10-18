@@ -1,4 +1,4 @@
-# CAc restreint du 04/04/2024
+# CAc restreint du 4 avril 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 

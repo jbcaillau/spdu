@@ -1,4 +1,4 @@
-# CAC restreint du 31/05/2024
+# CAC restreint du 31 mai 2024
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
 
