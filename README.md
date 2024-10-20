@@ -8,6 +8,8 @@
 
 [Calendrier 2024-25](https://intranet.univ-cotedazur.fr/organisation/vie-institutionnelle/instances/conseil-academique/conseil-academique-plenier/calendrier-et-infos-diverses)
 
+[Tableau présence SPDU](https://lite.framacalc.org/1uuo6ag2bh-aaaw)
+
 [Séance du 15 janvier 2024](cac-15012024/notes.md)
 
 [Séance du 8 février 2024](cac-08022024/notes.md)
