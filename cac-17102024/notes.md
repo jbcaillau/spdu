@@ -15,4 +15,7 @@
     - au plus 8 autres missions (diffusion culture humaniste...)
 - volonté UniCA de rester "intensive en recherche"
 - pas de cumul avec RIPEC2 / axe intéressement si aspects déjà couverts
+- les élus CAc n'interviennent pas sur les dossiers des collègues du même labo
+- au vu de la pression, peu (pas) de repêchage de collègues avec une note globale B au CNU
+- autre effet de la pression : les dossiers très bien notés sur plusieurs critères sont favorisés au détriment de dossiers très bons sur un seul critère
 - résultat : 22 hommes, 20 femmes
