@@ -33,6 +33,9 @@
 - 11 à 16 pédagogie
 - max 11 intérêt général
 - max 11 autres missions
+- les élus CAc n'interviennent pas sur les dossiers des collègues du même labo
+- au vu de la pression, peu (pas) de repêchage de collègues avec une note globale B au CNU
+- autre effet de la pression : les dossiers très bien notés sur plusieurs critères sont favorisés au détriment de dossiers très bons sur un seul critère
 
 Résultats MC :
 - recherche : 34 
