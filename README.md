@@ -39,3 +39,7 @@
 [Séance du 17 octobre 2024](cac-17102024/notes.md)
 
 [Séance du 12 novembre 2024](cac-12112024/notes.md)
+
+[Séance du 21 novembre 2024](cac-21112024/notes.md)
+
+[Séance du 26 novembre 2024](cac-26112024/notes.md)
