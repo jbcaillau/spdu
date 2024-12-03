@@ -38,7 +38,7 @@
 - sur 20 demandes de rehaussement, 9 OK (46.3 / repyramidage / 46.4)
 - 15 MC (*vs.* 17 en 2024), 14 PR (*vs.* 15 en 2024) + 5 repyramidages (à valider en janvier ; *vs.* 6 en 2024)
 - 46.3 : importance de la condition de vivier
-- 46.4 : à propos de la 2ème année d'IUF
+- 46.4 : à partir de la 2ème année d'IUF
 - CPJ : 0 cette année (pb notamment pour NeuroMod) ; CPJ compensée à 60 % env.
 - repyramidage : compensé pour une part (contrairement au 46.3) ; sera connu / validé en janvier, "pari" fait sur 5 postes
 - SPECTRUM / PNS :
