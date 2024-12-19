@@ -45,3 +45,5 @@
 [Séance du 26 novembre 2024](cac-26112024/notes.md)
 
 [Séance du 16 décembre 2024](cac-16122024/notes.md)
+
+[Séance du 19 décembre 2024](cac-19122024/notes.md)
