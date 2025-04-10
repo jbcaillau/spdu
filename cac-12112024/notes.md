@@ -66,6 +66,6 @@
 
 ### Misc
 
-- prime annuelle pour les porteurs ERC : deux taux, taux 1 = environ 13000 euros, taux 2 = environ 18000 euros :o 
+- prime annuelle pour les porteurs ERC : deux taux, taux 1 = environ 13000 euros, taux 2 = environ 18000 euros
 
 [^1]: voir https://www.aefinfo.fr/depeche/703461-scsp-par-etudiant-aucune-surprise-pour-les-universites-mais-des-difficultes-en-matiere-de-fonctionnement-quotidien
