@@ -1,6 +1,6 @@
 # CAc plénier et restreint du 12/11/2024
 
-**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
+**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi. 
 
 ## Séance plénière
 
