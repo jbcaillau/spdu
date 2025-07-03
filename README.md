@@ -50,6 +50,8 @@
 
 [Séance du 23 janvier 2025](cac-23012025/notes.md)
 
+[Séance du 13 mars 2025](cac-13032025/notes.md)
+
 [Séance du 27 mars 2025](cac-27032025/notes.md)
 
 [Séance du 10 avril 2025](cac-10042025/notes.md)
