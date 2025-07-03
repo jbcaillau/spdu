@@ -56,4 +56,6 @@
 
 [Séance du 10 avril 2025](cac-10042025/notes.md)
 
+[Séance du 22 mai 2025](cac-22052025/notes.md)
+
 [Séance du 12 juin 2025](cac-12062025/notes.md)
