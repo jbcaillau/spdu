@@ -61,3 +61,6 @@
 [Séance du 12 juin 2025](cac-12062025/notes.md)
 
 [Séance du 24 juin 2025](cac-24062025/notes.md)
+
+[Séance du 3 juillet 2025](cac-03072025/notes.md)
+
