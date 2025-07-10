@@ -4,7 +4,7 @@
 
 ## Avancement de grade
 
-- **remarque liminaire** : on gère la pénurie
+- **remarque liminaire** : on gère la pénurie, et forte baisse par rapport à 2024 (voir [CAC du 2 juillet 2024](../cac-02072024/notes.md)
 - rappel 2024
 ![image](https://github.com/user-attachments/assets/3bdee1b4-628e-4f80-9640-254ab48d64ba)
 - infos 2025
