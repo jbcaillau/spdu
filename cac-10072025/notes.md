@@ -13,7 +13,7 @@
 - 4 MC HC + 1 MC EX (NB : après vote du CAC pour passer un avancement PR1 en MC HC)
 - 3 PR1 + 3 PR EX1 + 1 PR EX2
 - promos PR EX1 / EX2 : au CNU plutôt contribution à la discipline, en local plutôt contribution à la dynamique de l'établissement
-- au vu de la très forte pression, sauf cas particulier, les dossiers avec 4 ans ou moins d'ancienneté dans le grade ne sont pas considérés pour une promotion
+- au vu de la très forte pression, sauf cas particulier, quel que soit le grade les dossiers avec moins de 4 ans d'ancienneté dans le grade ne sont pas considérés pour une promotion
 - vote sur le principe de transférer une promo PR1 vers MC HC
 
 ## Misc
