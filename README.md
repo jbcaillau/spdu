@@ -6,7 +6,7 @@
 
 [Infos CAc (PV...)](https://univ-cotedazur.fr/universite/organisation/conseils-commissions-et-comites/conseil-academique)
 
-[Calendrier 2024-25](https://intranet.univ-cotedazur.fr/organisation/vie-institutionnelle/instances/conseil-academique/conseil-academique-plenier/calendrier-et-infos-diverses)
+[Calendrier](https://intranet.univ-cotedazur.fr/organisation/vie-institutionnelle/instances/conseil-academique/conseil-academique-plenier/calendrier-et-infos-diverses)
 
 [Tableau présence SPDU](https://lite.framacalc.org/1uuo6ag2bh-aaaw)
 
