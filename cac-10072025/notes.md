@@ -16,6 +16,11 @@
 - au vu de la très forte pression, sauf cas particulier, quel que soit le grade les dossiers avec moins de 4 ans d'ancienneté dans le grade ne sont pas considérés pour une promotion
 - vote sur le principe de transférer une promo PR1 vers MC HC
 
+Textes de référence :
+- % promotions (sur le nombre de promouvables, pas sur les candidatures exprimées à la promotion), entre 10 et 18% selon les corps, [JO](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047278227)
+- promos MC moitié CNU / moitié local, [JO](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039330980)
+- promos PR moitié CNU / moitié local, [JO](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039330927)
+
 ## Misc
 
 - mise en dispo : de droit pour (i) élever un enfant de moins de 12 ans, (ii) suivre son conjoint (sans limitation de durée), (iii) pour convenances personnelles (5 ans max, passe en CAC chaque année)
