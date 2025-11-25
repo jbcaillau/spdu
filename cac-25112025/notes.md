@@ -1,5 +1,7 @@
 # CAC du 25/11/2025
 
+**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
+
 ## Postes enseignants-chercheurs
 
 - au national, coupe de 1.5 milliard d'euros
