@@ -67,3 +67,5 @@
 [Séance du 10 juillet 2025](cac-10072025/notes.md)
 
 [Séance du 13 novembre 2025](cac-13112025/notes.md)
+
+[Séance du 25 novembre 2025](cac-25112025/notes.md)
