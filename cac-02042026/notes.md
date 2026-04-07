@@ -30,6 +30,6 @@ https://univ-cotedazur.fr/medias/fichier/pv-cdd-2023-02-27_1685081724129-pdf?ID_
 
 **Citations du jour**
 
-    "Nous assumons nous-mêmes notre propre misère" (L. Fournier)
+"Nous assumons nous-mêmes notre propre misère" (L. Fournier)
 
-    "Même au centre aéré on fait de la recherche" (Ibid)
+"Même au centre aéré on fait de la recherche" (Ibid)
