@@ -1,5 +1,7 @@
 # CAC restreint du 02/04/2026
 
+**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
+
 ## CDIsation des enseignants-contractuels
 
 - enseignant : 384 HETD
