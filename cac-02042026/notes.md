@@ -9,7 +9,7 @@
 - CDIsation possible avant 6 ans, possible au bout de 2 ans (notion de demande anticipée)
 - env. 10 demandes / an sur UniCA
 - un cas à Polytech / I3S : support utilisé = MC
-- pb à I3S : utilisation support MC pour ens-contractuel
+- pb à I3S : utilisation support MC pour ens. contractuel
 - notion de plafond d'emploi (y compris sur ressources propres)
 - process en cours de normalisaiton pour éviter les surprises du genre "on a CDIsé et perdu un support MC / PR"
 - pour ex. : extrait d'un CR de comité de direction Polytech (2023)24) avec détail des contrats d'enseignants-contractuels (12 contrats)
