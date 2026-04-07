@@ -8,7 +8,7 @@
 - gros pb : (i) CDIsation d'emplois de fonctionnaires, (ii) pas de recherche adossée
 - CDIsation possible avant 6 ans, possible au bout de 2 ans (notion de demande anticipée)
 - env. 10 demandes / an sur UniCA
-- cas de F. Rallo (Polytech / I3S) : support utilisé = MC
+- un cas à Polytech / I3S : support utilisé = MC
 - pb à I3S : utilisation support MC pour ens-contractuel
 - notion de plafond d'emploi (y compris sur ressources propres)
 - process en cours de normalisaiton pour éviter les surprises du genre "on a CDIsé et perdu un support MC / PR"
