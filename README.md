@@ -73,3 +73,5 @@
 [Séance du 11 décembre 2025](cac-11122025/notes.md)
 
 [Séance du 2 avril 2026](cac-02042026/notes.md)
+
+[Séance du 9 avril 2026](cac-09042026/notes.md)
