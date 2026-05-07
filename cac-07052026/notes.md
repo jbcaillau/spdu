@@ -49,6 +49,7 @@ https://www.ac-toulouse.fr/formation-specialisee-en-matiere-de-sante-de-securite
 - le COPIL de la composante décide
 - calendrier de mise en place non connu
 - quid en cas d'échec du processus ?
+- contribue dans tous les cas à la contractualisation de l'ens sup (idem supports type CPJ, cf. infra, ISFP à Inria, *etc.*)
 
 # CAC restreint
 
