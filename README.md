@@ -77,3 +77,5 @@
 [Séance du 9 avril 2026](cac-09042026/notes.md)
 
 [Séance du 7 mai 2026](cac-07052026/notes.md)
+
+[Séance du 18 juin 2026](cac-18062026/notes.md)
