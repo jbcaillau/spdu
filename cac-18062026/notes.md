@@ -1,6 +1,6 @@
-#CAC restreint du 18 juin 2026
+# CAC restreint du 18 juin 2026
 
-*Nota bene* : seuls les comptes rendus officiels, validés par le CAc, font foi.
+**Nota bene** : seuls les comptes rendus officiels, validés par le CAc, font foi.
 
 - ATER : validation de l'ensemble des classements
 - collegium of advanced studies 2026 : sélection gérée par un comité externe : 3 MC + 1 PR
