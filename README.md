@@ -10,6 +10,8 @@
 
 [Tableau présence SPDU](https://lite.framacalc.org/1uuo6ag2bh-aaaw)
 
+## CAC 
+
 [Séance du 15 janvier 2024](cac-15012024/notes.md)
 
 [Séance du 8 février 2024](cac-08022024/notes.md)
@@ -81,3 +83,7 @@
 [Séance du 18 juin 2026](cac-18062026/notes.md)
 
 [Séance du 22 octobre 2026](cac-22102026/notes.md)
+
+## Commissions d'exonération 
+
+[Séance du 3 novembre 2026](exo-03112026/notes.md)
