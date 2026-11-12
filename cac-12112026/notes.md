@@ -1,5 +1,7 @@
 # CAC (plénier + restreint) du 12 novembre 2026
 
+**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
+
 ## Campagne de postes 2027
 
 - 6 demandes de création (quasi que MC)
@@ -27,4 +29,4 @@
 
 - PEDR (qui subsiste pour IUF et hospitalo-universitaires) : désormais mensualisée (comme RIPEC3)
 - santé durable : signature de la charte d'Okanagan ; nécessité remontées par élus de répondre rapidement à des revendications basiques (ex : lieu de vie à Carlone) 
-- infos spécifiques santé doctorants (enquête organisée par élus doctorants) : voir synthèse des résultats ; préoccupations partagées plus généralement par étudiants (médecine et autres) -> question des moyens
+- infos spécifiques santé doctorants (enquête organisée par élus doctorants) : voir [synthèse des résultats](https://github.com/jbcaillau/spdu/raw/main/cac-12112026/doc-sante.pdf) ; préoccupations partagées plus généralement par étudiants (médecine et autres) -> question des moyens
