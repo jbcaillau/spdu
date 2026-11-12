@@ -29,4 +29,18 @@
 
 - PEDR (qui subsiste pour IUF et hospitalo-universitaires) : désormais mensualisée (comme RIPEC3)
 - santé durable : signature de la charte d'Okanagan ; nécessité remontées par élus de répondre rapidement à des revendications basiques (ex : lieu de vie à Carlone) 
-- infos spécifiques santé doctorants (enquête organisée par élus doctorants) : voir [synthèse des résultats](https://github.com/jbcaillau/spdu/raw/main/cac-12112026/doc-sante.pdf) ; préoccupations partagées plus généralement par étudiants (médecine et autres) -> question des moyens
+- infos spécifiques santé doctorants (enquête organisée par élus doctorants) : voir synthèse des résultats ; préoccupations partagées plus généralement par étudiants (médecine et autres) -> question des moyens
+- RUE (Relations Univ. Entreprises), implication sur stages / alternances / thèses CIFRE (voir https://univ-cotedazur.fr/relations-entreprises-4)
+- accréditations : infirmiers (IFSI), sages-femmes (maïeutique)
+- cadrage éméritat (PR) / honorariat (MC) : membre, rapporteur mais pas président jury de thèse (4 à 8 membres) ; finir encadrement thèses commencées OK, pas commencer une nouvelle thèse ; possibilité d'enseigner à titre gracieux (ou en étant rémunéré si c'est dans une autre université que celle d'origine - à vérifier)
+- distanciel : blocages (notamment Carlone), enseignants désemparés quant à la continuité pédagogique (recommandations variées selon les composantes / EUR, sur la base d'une circulaire non publiée à ce moment-là) ; pour les étudiants : accès à des locaux / mailing lists ; prérogative du CAC quant aux modalités d'enseignement, position à prendre si possible sur une information quant à la mobilisation étudiante 
+- semestre blanc ("banalisé") / 10 améliorable : position de principe = non gouvernance / rectorat / ministère ; quelles conséquences sur MCC / évaluations ?
+- gouvernance : distanciel (a)synchrone / report / délocalisation indiqués (au jour le jour) comme modalités possibles pour assurer la continuité pédagogique, pas décidés par gouvernance
+- NB : si banalisation, pas de modalités alternatives proposées
+- pt de vue étudiants : (i) communication par les EUR peu / pas reçues (dans l'autre sens : accès aux mailing lists pour les étu ?) ; (ii) distanciel : inégalités entre étudiants, crée de la détresse psychologique, étudiants pas consultés sur ces modalités 
+- rémunération des vacataires ?
+- NB : Carlone actuellement pas fermée administrativement 
+
+## Délégations CNRS
+
+- a priori faible valeur ajoutée du CAC : à part décision de blocage, peu d'effet de l'avis remonté au niveau CNRS
