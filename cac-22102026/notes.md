@@ -1,4 +1,4 @@
-# CAC du 22 novembre 2026
+# CAC du 22 octobre 2026
 
 **Nota bene :** seuls les comptes rendus officiels, validés par le CAC, font foi.
 
