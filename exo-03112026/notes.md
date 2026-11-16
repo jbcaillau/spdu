@@ -14,3 +14,4 @@
 - autre commission : aides ponctuelles
 - seuils par cycle pour les exonérations : 4 fois en licence
 - cas des étudiants mariés hors ECC : non soumis aux DIDECC (i) soit quand le foyer fiscal associé au couple paie des impôts en France (depuis au moins 3 ans), (ii) soit en cas de regroupement familial (à préciser)
+- Plus généralement, étudiants dont le foyer fiscal de rattachement (mariage ou non) fait une déclaration de revenus (depuis au moins 3 ans) en France n'est pas soumis aux DIDECC, à vérifier s'il faut effectivement avoir payé des impôts ou non. 
