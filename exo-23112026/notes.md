@@ -1,6 +1,6 @@
 # Commission exonération du 23/11/2026
 
-*Nota bene* : seuls les comptes rendus officiels font foi.
+**Nota bene** : seuls les comptes rendus officiels font foi.
 
 Présents : 4 AS, P. Crémoux, G. Legout, W. Tattinian, JBC
 
