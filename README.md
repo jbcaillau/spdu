@@ -4,6 +4,8 @@
 
 [Documents institutionnels UniCA](https://univ-cotedazur.fr/universite/organisation/conseils-commissions-et-comites/documents-institutionnels/decrets)
 
+[Règlement intérieur](https://univ-cotedazur.fr/medias/fichier/2023-093-modification-des-ri-1-2_1762942486967-pdf)
+
 [Documents de travail CAC](https://intranet.univ-cotedazur.fr/organisation/vie-institutionnelle/instances/conseil-academique)
 
 [Infos CAc (PV...)](https://univ-cotedazur.fr/universite/organisation/conseils-commissions-et-comites/conseil-academique)
