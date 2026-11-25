@@ -89,3 +89,5 @@
 ## Commissions d'exonération 
 
 [Séance du 3 novembre 2026](exo-03112026/notes.md)
+
+[Séance du 23 novembre 2026](exo-23112026/notes.md)
