@@ -2,6 +2,8 @@
 
 [Service Public et Démocratie Universitaire](https://service-public-democratie-universitaire.fr)
 
+[Documents institutionnels UniCA](https://univ-cotedazur.fr/universite/organisation/conseils-commissions-et-comites/documents-institutionnels/decrets)
+
 [Documents de travail CAC](https://intranet.univ-cotedazur.fr/organisation/vie-institutionnelle/instances/conseil-academique)
 
 [Infos CAc (PV...)](https://univ-cotedazur.fr/universite/organisation/conseils-commissions-et-comites/conseil-academique)
