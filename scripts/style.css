@@ -199,7 +199,7 @@ img.float-left { float: left; margin: 0.2rem 1.2rem 0.6rem 0; border: 1px solid 
 }
 
 /* SPDU additions */
-main p:has(> a:only-child) { margin: 0.25rem 0; }
+main p.seances { line-height: 1.9; margin: 0.4rem 0 1rem; }
 main table { border-collapse: collapse; margin: 1rem 0; font-size: 0.95rem; }
 main td, main th { border: 1px solid var(--rule); padding: 0.3rem 0.6rem; }
 main pre { background: var(--tag-bg); padding: 0.75rem; overflow-x: auto; border-radius: 6px; }
