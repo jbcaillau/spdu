@@ -88,6 +88,8 @@
 
 [Séance du 22 octobre 2026](cac-22102026/notes.md)
 
+[Séance du 26 novembre 2026](cac-26112026/notes.md)
+
 ## Commissions d'exonération 
 
 [Séance du 3 novembre 2026](exo-03112026/notes.md)
