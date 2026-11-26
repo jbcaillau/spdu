@@ -1,7 +1,5 @@
 # CAC plénier du 26 novembre 2026
 
-**Nota bene :** seuls les comptes rendus officiels, validés par le CAc, font foi.
-  
 ## CSI
 - arbitrage en CAC 18/02
 - redéploiement 50 K€ CSI -> contrats doctoraux UniCA (cf. préservation de 170 contrats)
@@ -17,6 +15,7 @@
 - capacités d'accueil en santé : problème remonté à cette occasion = manque d'encadrants pour former les étudiants en stage
 - parcoursup / master (capacités et critères) : interrogation sur moyens (qui seront) alloués
 - calendrier HCERES : décalé printemps 2028 (cycle de 13 mois)
+- DU : si déficitaire, évaluation par inspection générale comme un possible "détournement de SCSP"
 
 ## Inspé
 
