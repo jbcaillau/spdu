@@ -31,7 +31,6 @@ TEMPLATE = """<!DOCTYPE html>
 <link rel="stylesheet" href="{prefix}style.css">
 </head>
 <body>
-<a class="skip" href="#content">Aller au contenu</a>
 <header class="site-header">
 <nav aria-label="Principal">
 <a class="brand" href="{prefix_home}">SPDU</a>
@@ -62,12 +61,24 @@ def rewrite_links(body: str) -> str:
     return LINK_MD.sub(fix, body)
 
 
+SEANCE_RUN = re.compile(r'(?:<p><a href="[^"]*">Séance[^<]*</a></p>\n?)+')
+SEANCE_ONE = re.compile(r'<a href="[^"]*">Séance[^<]*</a>')
+
+
+def join_seances(body: str) -> str:
+    """Suites de paragraphes « Séance … » -> un seul paragraphe, séparés par « · »."""
+    def fix(m):
+        links = SEANCE_ONE.findall(m.group(0))
+        return '<p class="seances">' + "&nbsp;· ".join(links) + "</p>\n"
+    return SEANCE_RUN.sub(fix, body)
+
+
 def render(md_path: Path, out_path: Path, is_index: bool) -> None:
     text = md_path.read_text(encoding="utf-8")
     body = markdown.markdown(
         text, extensions=["extra", "sane_lists", "toc", "nl2br"], output_format="html5"
     )
-    body = rewrite_links(body)
+    body = join_seances(rewrite_links(body))
     h1 = re.search(r"<h1[^>]*>(.*?)</h1>", body, re.S)
     page_title = re.sub(r"<[^>]+>", "", h1.group(1)) if h1 else SITE_TITLE
     if not is_index:
