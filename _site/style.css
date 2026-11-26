@@ -1,0 +1,14 @@
+
+:root { color-scheme: light dark; }
+body { max-width: 52rem; margin: 0 auto; padding: 1.5rem 1rem 4rem;
+       font: 1.05rem/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+nav { margin-bottom: 1.5rem; font-size: .95rem; }
+h1, h2, h3 { line-height: 1.25; }
+a { color: #1a5fb4; }
+@media (prefers-color-scheme: dark) { a { color: #8ab4f8; } }
+table { border-collapse: collapse; }
+td, th { border: 1px solid #8884; padding: .3rem .6rem; }
+code, pre { background: #8881; border-radius: 4px; }
+code { padding: 0 .25em; }
+pre { padding: .75rem; overflow-x: auto; }
+blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid #8886; }

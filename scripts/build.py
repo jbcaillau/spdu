@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Génère le site statique (dossier _site) à partir de README.md et des notes.md.
+"""Génère le site statique (dossier docs) à partir de README.md et des notes.md.
 
-- README.md        -> _site/index.html
-- <dossier>/notes.md -> _site/<dossier>/index.html
+- README.md        -> docs/index.html
+- <dossier>/notes.md -> docs/<dossier>/index.html
 - tous les autres fichiers (PDF, etc.) sont copiés tels quels.
 """
 import html
@@ -14,8 +14,8 @@ from pathlib import Path
 import markdown
 
 ROOT = Path(__file__).resolve().parent.parent
-OUT = ROOT / "_site"
-SKIP_DIRS = {".git", ".github", "_site", "scripts", "node_modules"}
+OUT = ROOT / "docs"
+SKIP_DIRS = {".git", ".github", "docs", "scripts", "node_modules"}
 SITE_TITLE = "SPDU"
 
 CSS = """
