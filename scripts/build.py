@@ -5,6 +5,7 @@
 - <dossier>/notes.md -> docs/<dossier>/index.html
 - tous les autres fichiers (PDF, etc.) sont copiés tels quels.
 """
+import datetime
 import html
 import re
 import shutil
@@ -18,21 +19,7 @@ OUT = ROOT / "docs"
 SKIP_DIRS = {".git", ".github", "docs", "scripts", "node_modules"}
 SITE_TITLE = "SPDU"
 
-CSS = """
-:root { color-scheme: light dark; }
-body { max-width: 52rem; margin: 0 auto; padding: 1.5rem 1rem 4rem;
-       font: 1.05rem/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
-nav { margin-bottom: 1.5rem; font-size: .95rem; }
-h1, h2, h3 { line-height: 1.25; }
-a { color: #1a5fb4; }
-@media (prefers-color-scheme: dark) { a { color: #8ab4f8; } }
-table { border-collapse: collapse; }
-td, th { border: 1px solid #8884; padding: .3rem .6rem; }
-code, pre { background: #8881; border-radius: 4px; }
-code { padding: 0 .25em; }
-pre { padding: .75rem; overflow-x: auto; }
-blockquote { margin-left: 0; padding-left: 1rem; border-left: 3px solid #8886; }
-"""
+CSS = (Path(__file__).resolve().parent / "style.css").read_text(encoding="utf-8")
 
 TEMPLATE = """<!DOCTYPE html>
 <html lang="fr">
@@ -40,13 +27,22 @@ TEMPLATE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
+<meta name="color-scheme" content="light dark">
 <link rel="stylesheet" href="{prefix}style.css">
 </head>
 <body>
-{nav}
-<main>
+<a class="skip" href="#content">Aller au contenu</a>
+<header class="site-header">
+<nav aria-label="Principal">
+<a class="brand" href="{prefix_home}">SPDU</a>
+</nav>
+</header>
+<main id="content">
 {body}
 </main>
+<footer>
+<span>Mis à jour le {date}</span>
+</footer>
 </body>
 </html>
 """
@@ -77,10 +73,10 @@ def render(md_path: Path, out_path: Path, is_index: bool) -> None:
     if not is_index:
         page_title = f"{page_title} – {SITE_TITLE}"
     prefix = "../" * len(out_path.relative_to(OUT).parent.parts)
-    nav = "" if is_index else f'<nav><a href="{prefix or "./"}">← {SITE_TITLE}</a></nav>'
+    home = prefix or "./"
     out_path.parent.mkdir(parents=True, exist_ok=True)
     out_path.write_text(
-        TEMPLATE.format(title=html.escape(page_title), prefix=prefix, nav=nav, body=body),
+        TEMPLATE.format(title=html.escape(page_title), prefix=prefix, prefix_home=home, body=body, date=datetime.date.today().isoformat()),
         encoding="utf-8",
     )
 
